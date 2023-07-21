@@ -1,3 +1,7 @@
+# Purpose
+
+This is a practice project that follows the MDN React App Todo List tutorial
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
